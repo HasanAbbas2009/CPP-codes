@@ -9,8 +9,8 @@ int main()
 {
     cout << "Welcome to the Calculator made in C++\n";
     
-    int n1;
-    int n2;
+    double n1;
+    double n2;
     cout << "Enter 1st number\n";
     cin >> n1;
     cout << "Enter 2nd number\n";
