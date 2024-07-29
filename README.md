@@ -1,1 +1,1 @@
-By a C++ beginner, for a  C++ beginner
+For a C++ beginner, By a C++ beginner
